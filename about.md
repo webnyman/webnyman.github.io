@@ -1,18 +1,24 @@
 ---
 layout: page
-title: About
+title: Om mig
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Mitt namn är Björn Nyman och jag är 43 år. Till vardags arbetar jag som trumpetare vid Arméns musikkår i Stockholm.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Arbetet som militärmusiker är mycket omväxlande och har tagit mig till många platser i världen.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Exempel på länder jag har spelat trumpet i:
 
+* Tyskland
+* Holland
+* USA
+* Afghanistan, bilden nedan är från Mazar-E-Sharif år 2013.
 
-[jekyll-organization]: https://github.com/jekyll
+<img alt="Björn Nyman i Mazar-E-Sharif, Afghanistan" src="/assets/affe_bn.jpg" width="400">
+
+Just nu pluggar jag till webbprogrammerare på Linnéuniversitet där en av kurserna Klientbaserad webbprogrammering.
+
+En av uppgifterna är att skapa en webbålats med hjälp av *Static Site Generators* (SSG) och *CSS Preprocessors*.
+
+Denna sida är ett exempel på en sådan webbplats. 
