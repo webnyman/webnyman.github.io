@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: Start
+comments: true
 ---
 # Välkommen
 Denna sidan är uppbyggd i verktyget Jekyll!

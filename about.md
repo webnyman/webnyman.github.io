@@ -21,4 +21,4 @@ Just nu pluggar jag till webbprogrammerare på Linnéuniversitet där en av kurs
 
 En av uppgifterna är att skapa en webbålats med hjälp av *Static Site Generators* (SSG) och *CSS Preprocessors*.
 
-Denna sida är ett exempel på en sådan webbplats. 
+Denna sida är ett exempel på en sådan webbplats.
