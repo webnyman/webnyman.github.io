@@ -19,7 +19,7 @@ Lösningen på dessa problem är en så kallad CSS Preprocessor. Detta verktyg g
 
 Exempel på CSS-processorer är:
 
-* [SASS](http://sass-lang.com/)
-* [LESS](http://lesscss.org/index.html)
+* [SASS](http://sass-lang.com/){:target="_blank"}
+* [LESS](http://lesscss.org/index.html){:target="_blank"}
 
 På den här sidan har jag använt *SASS* för att skapa generella förändringar i CSS-koden.

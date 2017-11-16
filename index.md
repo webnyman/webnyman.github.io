@@ -8,4 +8,5 @@ title: Start
 # Välkommen
 Denna sidan är uppbyggd i verktyget Jekyll!
 
-Läs gärna bloggposterna om CSS preprocessorer och statiska sidgeneratorer.
+Läs gärna bloggposterna om CSS preprocessorer, statiska sidgeneratorer och annat nyttigt som vi lär oss på kursen *Klientbaserad webbprogrammering*.
+
